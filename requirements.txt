@@ -1,6 +1,6 @@
 json
 streamlit
 pandas
-python==3.11.09
+python==3.11.9
 pycaret.clustering
 plotly.express
