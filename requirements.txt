@@ -1,0 +1,6 @@
+json
+streamlit
+pandas
+python==3.11.09
+pycaret.clustering
+plotly.express
