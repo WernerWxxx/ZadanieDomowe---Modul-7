@@ -1,6 +1,5 @@
-json
-streamlit
-pandas
-python==3.11.9
-pycaret.clustering
-plotly.express
+import json
+import streamlit as st
+import pandas as pd
+from pycaret.clustering import load_model, predict_model
+import plotly.express
